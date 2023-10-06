@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="408b6a56-24a8-452c-994f-bfd30febfc16" name="Changes" comment="Ich habe weiter gelernt">
+    <list default="true" id="408b6a56-24a8-452c-994f-bfd30febfc16" name="Changes" comment="I continued learning">
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/aufgaben3/Zahlraten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/test/MySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/youtube/MainTuto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/youtube/MySQLTuto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/phastixtv/ch/aufgaben3/VokaltestSwitchcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/aufgaben3/VokaltestSwitchcase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +31,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PhastixTV"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PhastixTV&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -59,14 +65,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Keine Games/Dev/API/EpicFriends_v7.1.0.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Keine Games/Dev/Libaries/mysql-connector-java-8.0.30.jar&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.44942528&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -75,7 +81,7 @@
       <recent name="D:\Keine Games\Dev\Java.lernen\src\main\java\phastixtv\ch\aufgaben3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Schaltjahr">
+  <component name="RunManager" selected="Application.phastixtv.ch.test.Main">
     <configuration name="DeliaFickME" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="phastixtv.ch.aufgaben3.DeliaFickME" />
       <module name="Java.lernen" />
@@ -89,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoesungQuadratischeGleichung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.aufgaben3.LoesungQuadratischeGleichung" />
+    <configuration name="MainTuto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.youtube.MainTuto" />
       <module name="Java.lernen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="phastixtv.ch.aufgaben3.*" />
+          <option name="PATTERN" value="phastixtv.ch.youtube.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zahlentest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.aufgaben3.Zahlentest" />
+    <configuration name="phastixtv.ch.test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.test.Main" />
       <module name="Java.lernen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="phastixtv.ch.aufgaben3.*" />
+          <option name="PATTERN" value="phastixtv.ch.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.phastixtv.ch.test.Main" />
+        <item itemvalue="Application.MainTuto" />
         <item itemvalue="Application.Schaltjahr" />
         <item itemvalue="Application.DeliaFickME" />
         <item itemvalue="Application.Selektion1" />
-        <item itemvalue="Application.LoesungQuadratischeGleichung" />
-        <item itemvalue="Application.Zahlentest" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +178,13 @@
       <workItem from="1693938238456" duration="2258000" />
       <workItem from="1694016223604" duration="1034000" />
       <workItem from="1694025418780" duration="290000" />
-      <workItem from="1695378439663" duration="2517000" />
+      <workItem from="1695378439663" duration="4809000" />
+      <workItem from="1695654505252" duration="240000" />
+      <workItem from="1695756079780" duration="257000" />
+      <workItem from="1695756380772" duration="5000" />
+      <workItem from="1695757382662" duration="6366000" />
+      <workItem from="1695831342079" duration="2869000" />
+      <workItem from="1696456332412" duration="3575000" />
     </task>
     <task id="LOCAL-00002" summary="Ich habe weiter gelernt">
       <option name="closed" value="true" />
@@ -182,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695380376532</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="I continued learning">
+      <option name="closed" value="true" />
+      <created>1695381018073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695381018073</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +212,7 @@
     <MESSAGE value="Original" />
     <MESSAGE value="Verbesserung" />
     <MESSAGE value="Ich habe weiter gelernt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ich habe weiter gelernt" />
+    <MESSAGE value="I continued learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="I continued learning" />
   </component>
 </project>

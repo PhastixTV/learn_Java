@@ -31,9 +31,8 @@ public class VokaltestSwitchcase {
                      var eingabe = JOptionPane.showInputDialog("Geben Sie einen Buchstaben ein: ");
                      var c = eingabe.charAt(0);
                         switch (c) {
-                            case 'a','e','i','o','u' ->
+                            case 'a','e','i','o','u' ->  | Durch diese Methode wird kein Break benötigt!
                             JOptionPane.showMessageDialog(null, c + "ist ein Vokal!");
-                            break;
                             default ->
                             JOptionPane.showMessageDialog(null, c + " ist kein Vokal!");
                  */

@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="408b6a56-24a8-452c-994f-bfd30febfc16" name="Changes" comment="I continued learning, Switch Case and how to use MySQL in basics">
-      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/aufgaben3/SprunganweisungFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/aufgaben3/ZahlendreieckWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="408b6a56-24a8-452c-994f-bfd30febfc16" name="Changes" comment="I continued learning" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +179,7 @@
       <workItem from="1696456332412" duration="3575000" />
       <workItem from="1696528650475" duration="4127000" />
       <workItem from="1696876345441" duration="628000" />
-      <workItem from="1697061308326" duration="1704000" />
+      <workItem from="1697061308326" duration="2192000" />
     </task>
     <task id="LOCAL-00002" summary="Ich habe weiter gelernt">
       <option name="closed" value="true" />
@@ -217,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696586245266</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="I continued learning">
+      <option name="closed" value="true" />
+      <created>1697063459095</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697063459095</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,8 +231,8 @@
     <MESSAGE value="Original" />
     <MESSAGE value="Verbesserung" />
     <MESSAGE value="Ich habe weiter gelernt" />
-    <MESSAGE value="I continued learning" />
     <MESSAGE value="I continued learning, Switch Case and how to use MySQL in basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="I continued learning, Switch Case and how to use MySQL in basics" />
+    <MESSAGE value="I continued learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="I continued learning" />
   </component>
 </project>

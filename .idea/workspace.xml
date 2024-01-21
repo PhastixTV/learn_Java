@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="408b6a56-24a8-452c-994f-bfd30febfc16" name="Changes" comment="I continued learning">
-      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/aufgaben3/ZahlendreieckDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/aufgaben3/Collatzfolge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/aufgaben3/Guthabenentwicklung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/aufgaben3/Summation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/aufgaben3/Was_soll_das.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/aufgaben3/ggT_Euklid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/database/JDBCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/kapitel5/Bruch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/kapitel5/Bruchtest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/kapitel5/aufgaben/Kreis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/kapitel5/aufgaben/Kreistest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/kapitel5/aufgaben/Rechteck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/kapitel5/aufgaben/Rechtecktest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phastixtv/ch/test/MySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phastixtv/ch/test/MySQL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +49,13 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="efb55118-3171-4a6b-be54-6860c076c199" />
+        <option name="accountId" value="1d996358-0d53-47bf-a8a6-b135668f37fc" />
         <option name="url" value="https://github.com/PhastixTV/learn_Java.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/phastixtv/ch/database/JDBCDemo.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,31 +71,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Keine Games/Dev/Libaries/mysql-connector-java-8.0.30.jar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.44942528&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Bruchtest1.executor": "Run",
+    "Application.Kreistest.executor": "Run",
+    "Application.Rechtecktest.executor": "Run",
+    "Application.Summation.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Keine Games/Dev/Java.lernen",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.44942528",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Keine Games\Dev\Java.lernen\src\main\java\phastixtv\ch\aufgaben3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZahlendreieckDo">
-    <configuration name="BeispielFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.aufgaben3.BeispielFor" />
+  <component name="RunManager" selected="Application.Rechtecktest">
+    <configuration name="Bruchtest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.kapitel5.Bruchtest1" />
+      <module name="Java.lernen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phastixtv.ch.kapitel5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kreistest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.kapitel5.aufgaben.Kreistest" />
+      <module name="Java.lernen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phastixtv.ch.kapitel5.aufgaben.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rechtecktest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.kapitel5.aufgaben.Rechtecktest" />
+      <module name="Java.lernen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phastixtv.ch.kapitel5.aufgaben.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Summation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.aufgaben3.Summation" />
       <module name="Java.lernen" />
       <extension name="coverage">
         <pattern>
@@ -90,47 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SprunganweisungFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.aufgaben3.SprunganweisungFor" />
-      <module name="Java.lernen" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="phastixtv.ch.aufgaben3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SprunganweisungenWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.aufgaben3.SprunganweisungenWhile" />
-      <module name="Java.lernen" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="phastixtv.ch.aufgaben3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZahlendreieckDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.aufgaben3.ZahlendreieckDo" />
-      <module name="Java.lernen" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="phastixtv.ch.aufgaben3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZahlendreieckWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.aufgaben3.ZahlendreieckWhile" />
+    <configuration name="ggT_Euklid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phastixtv.ch.aufgaben3.ggT_Euklid" />
       <module name="Java.lernen" />
       <extension name="coverage">
         <pattern>
@@ -144,13 +167,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ZahlendreieckDo" />
-        <item itemvalue="Application.ZahlendreieckWhile" />
-        <item itemvalue="Application.SprunganweisungFor" />
-        <item itemvalue="Application.SprunganweisungenWhile" />
-        <item itemvalue="Application.BeispielFor" />
+        <item itemvalue="Application.Rechtecktest" />
+        <item itemvalue="Application.Kreistest" />
+        <item itemvalue="Application.Bruchtest1" />
+        <item itemvalue="Application.Summation" />
+        <item itemvalue="Application.ggT_Euklid" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+        <option value="jdk-17.0.9-corretto-17.0.9-e1d2075fd9a7-f66d43ae" />
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -184,6 +216,9 @@
       <workItem from="1696876345441" duration="628000" />
       <workItem from="1697061308326" duration="2322000" />
       <workItem from="1697136179420" duration="1438000" />
+      <workItem from="1697277616752" duration="1049000" />
+      <workItem from="1697295669363" duration="606000" />
+      <workItem from="1697298145477" duration="2167000" />
     </task>
     <task id="LOCAL-00002" summary="Ich habe weiter gelernt">
       <option name="closed" value="true" />

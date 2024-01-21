@@ -19,7 +19,7 @@ public class MySQL {
         return (con == null ? false : true);
     }
 
-    public static void connect() throws ClassNotFoundException{
+    public static void connect() {
         if (!isConnected()) {
             try {
                 con = DriverManager.getConnection("jdbc:mysql://" + host + ":" + port + "/" + database, username, password);
